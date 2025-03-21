@@ -1,0 +1,2 @@
+# An-lisis-de-m-tricas-de-marketing-y-ventas-en-Showz
+Análisis de datos de visitas, pedidos y costos de marketing de Showz para optimizar inversiones. Se evaluó el comportamiento de los clientes, el tiempo hasta la conversión y el retorno de inversión por fuente de adquisición. Se utilizaron SQL y Python para calcular métricas clave y visualizar tendencias, permitiendo recomendaciones estratégicas.
